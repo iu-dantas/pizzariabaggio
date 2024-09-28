@@ -573,6 +573,7 @@ nav i {
 
 .etapa.active, .etapa.active::before {
     background-color: var(--color-primary);
+    color: #ffffff;
 
 }
 

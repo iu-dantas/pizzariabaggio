@@ -85,6 +85,14 @@
         padding-bottom: 50px;
     }
 
+    .servicos .background-servicos {
+        position: absolute;
+        left: 0;
+        right: 0;
+        height: 300px;
+        background-image: url(../img/bg-icons-2.png);
+    }    
+
     .cardapio {
         padding-bottom: 50px;
     }
