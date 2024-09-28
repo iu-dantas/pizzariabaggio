@@ -399,17 +399,17 @@ nav i {
 }
 
 #depoimento-1 .img-depoimento {
-    background-image: url(../img/diego.jpg);
+    background-image: url(../img/dep2.png);
     background-size: cover;
 }
 
 #depoimento-2 .img-depoimento {
-    background-image: url(../img/ana.jpg);
+    background-image: url(../img/dep1.png);
     background-size: cover;
 }
 
 #depoimento-3 .img-depoimento {
-    background-image: url(../img/joao.jpg);
+    background-image: url(../img/dep3.png);
     background-size: cover;
 }
 
