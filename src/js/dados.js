@@ -4,161 +4,161 @@ var MENU = {
             "id": 1,
             "name": "Atum",
             "dsc": "Atum, cebola e azeitonas.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 2,
             "name": "Alcachofra",
             "dsc": "Coração de alcachofra, mussarela de búfala e tomate seco.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 3,
             "name": "Aliche",
             "dsc": "Anchovas importadas e azeitonas.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 4,
             "name": "Alho e Óleo",
             "dsc": "Alho frito, parmesão e azeitonas.",
-            "price": 50,
+            "price": 60,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 5,
             "name": "Baiana",
             "dsc": "Calabresa moída, molho de pimenta, cebolas e azeitonas.",
-            "price": 50,
+            "price": 60,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 6,
             "name": "Baianinha",
             "dsc": "Calabresa moída, ovos, cebola, ervilha coberta c/ muzzarela.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 7,
             "name": "Brasileira",
             "dsc": "Atum, palmito, ervilha coberta com muzzarela.",
-            "price": 70,
+            "price": 75,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 8,
             "name": "Bacon",
             "dsc": "Bacon e muzzarela.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 9,
             "name": "Bacalhau",
             "dsc": "Bacalhau, cebolas, pimentão e azeitonas.",
-            "price": 75,
+            "price": 85,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 10,
             "name": "Brócolis",
             "dsc": "Brócolis e bacon coberto c muzzarela.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 11,
             "name": "Calabresa",
             "dsc": "Calabresa, cebolas e azeitonas.",
-            "price": 50,
+            "price": 60,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 12,
             "name": "Catubresa",
             "dsc": "Calabresa, catupiry, cebolas e azeitonas.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 13,
             "name": "Catupiry",
             "dsc": "Catupiry com azeitonas.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 14,
             "name": "Catulombo",
             "dsc": "Lombo, cebolas, azeitonas e catupiry.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 15,
             "name": "Champignon",
             "dsc": "Champignon coberto c/ muzzarela e azeitonas.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 16,
             "name": "Escarola",
             "dsc": "Escarola temperada coberta c/ muzzarela e aliche.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 17,
             "name": "4 Queijos",
             "dsc": "Gorgonzola, catupiry, parmesão, muzzarela e azeitonas.",
-            "price": 65,
+            "price": 75,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 18,
             "name": "5 Queijos",
             "dsc": "Catupiry, provolone, muzzarella, gorgonzola e parmesão.",
-            "price": 65,
+            "price": 75,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 19,
             "name": "Frango",
             "dsc": "Peito de frango desfiado, e azeitonas.",
-            "price": 55,
+            "price": 60,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 20,
             "name": "Frango c/ catupiry",
             "dsc": "Peito de frango desfiado coberto catupiry.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 21,
             "name": "Frango caipira",
             "dsc": "Frango desfiado, ovos, cebola e milho coberta de catupiry.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 22,
             "name": "Gorgonzola",
             "dsc": "Gorgonzola e azeitonas.",
-            "price": 65,
+            "price": 80,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 23,
             "name": "Gratinado",
             "dsc": "Muzzarela, provolone e parmesão.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
@@ -172,14 +172,14 @@ var MENU = {
             "id": 25,
             "name": "Lá baggio",
             "dsc": "Lombo, palmito, bacon e muzzarela e azeitonas.",
-            "price": 65,
+            "price": 72,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 26,
             "name": "Muzzarela",
             "dsc": "Muzzarela e azeitonas.",
-            "price": 50,
+            "price": 60,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
@@ -193,56 +193,56 @@ var MENU = {
             "id": 28,
             "name": "Moda da casa",
             "dsc": "Calabresa, palmito, cebola, ervilha, ovos e azeitonas.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 29,
-            "name": "Milho verde",
-            "dsc": "Milho verde, catupiry e azeitonas.",
-            "price": 65,
+            "name": "Milho",
+            "dsc": "Milho, catupiry e azeitonas.",
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 30,
             "name": "Marinheira",
             "dsc": "Muzzarela, aliche e azeitonas.",
-            "price": 65,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 31,
-            "name": "Mussarela c/ tomate",
-            "dsc": "Mussarela e tomates.",
-            "price": 55,
+            "name": "Napolitana",
+            "dsc": "Mussarela, tomates e parmesão.",
+            "price": 62,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 32,
-            "name": "Mussarela c/ manjericão",
-            "dsc": "Mussarela e manjericão.",
-            "price": 55,
+            "name": "Marguerita",
+            "dsc": "Mussarela, tomates e manjericão.",
+            "price": 62,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 33,
-            "name": "Mussarela c/ azeitonas",
-            "dsc": "Mussarela e azeitonas.",
-            "price": 55,
+            "name": "Mineira",
+            "dsc": "Calabresa moida, milho e parmesão.",
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 34,
-            "name": "Mussarela c/ presunto",
+            "name": "Presunto",
             "dsc": "Mussarela, presunto e azeitonas.",
-            "price": 60,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
             "id": 35,
-            "name": "Mussarela c/ bacon",
+            "name": "Bacon",
             "dsc": "Mussarela, bacon e azeitonas.",
-            "price": 60,
+            "price": 70,
             "img": "./src/img/cardapio/pizzasalgada.jpg"
         },
         {
